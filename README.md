@@ -18,5 +18,5 @@ This repo has been created as part of the course project of the Coursera module 
 ## Output
 - The tidy data set, a data frame with 81 variables (columns) and 180 records (or 181 rows, including the column headers).
 - The variables are "Activity", "Subject", as well as the 79 variable names from the original data set that contained mean or std in their name.
-- It will also create a text file in your working directory (or in the directory you have specified as function argument) with the dataset.
+- It will also create a text file (tidy.txt) in your working directory (or in the directory you have specified as function argument) with the dataset.
 - Please refer to CodeBook.md for more information on the variables and transformations done to clean up the data.
